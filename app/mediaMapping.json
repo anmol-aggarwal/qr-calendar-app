@@ -1,0 +1,15 @@
+{
+  "doc1": {
+    "type": "video",
+    "url": "https://drive.google.com/uc?export=preview&id=1jWJZN1xVCIyaK3Nk4jlI97Y2caNnd6C6",
+    "date": "2025-08-15",
+    "thumbnail": "https://placehold.co/600x400?text=Doc+1",
+    "youtubeId": "dQw4w9WgXcQ"
+  },
+  "doc2": {
+    "type": "image",
+    "url": "https://example.com/image.png",
+    "date": "2025-08-20",
+    "thumbnail": "https://placehold.co/600x400?text=Doc+2"
+  }
+}

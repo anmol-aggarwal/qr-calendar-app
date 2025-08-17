@@ -1,0 +1,110 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+package-lock.json
+
+# Expo / React Native
+.expo/
+.expo-shared/
+.expo-shared/assets.json
+web-build/
+dist/
+build/
+
+# Metro / caching
+.tmp/
+.cache/
+.babel.json
+
+# iOS
+ios/Pods/
+ios/build/
+ios/*.xcworkspace
+ios/*.xcuserdata
+**/xcuserdata/
+*.xcodeproj/project.xcworkspace
+DerivedData/
+*.hmap
+*.ipa
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+*.keystore
+gradle-app.setting
+.gradle/
+local.properties
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors & IDEs
+.vscode/
+.vscode/*           # if you want to keep settings, remove this line
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# JetBrains
+*.iml
+.idea/
+out/
+
+# Logs / debug
+*.log
+logs/
+debug.log
+
+# Environment / secrets
+.env
+.env.*.local
+.env.local
+.env.production
+.env.development
+.env.test
+*.secret
+*.key
+*.pem
+serviceAccountKey.json
+*.credentials.json
+
+# Generated / media artifacts (QRs, recordings, exports)
+/qrcodes/
+/qrs/
+/recordings/
+/uploads/
+/tmp_media/
+/*.mp4
+*.mov
+*.m4a
+*.aac
+
+# Firebase / google config (if you keep private keys locally)
+firebase-debug.log
+.firebase/
+
+# Misc
+coverage/
+reports/
+.vagrant/
+.snyk
+
+# OS lock files
+npm-debug.log*
+yarn-debug.log*
